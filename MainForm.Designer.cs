@@ -63,7 +63,7 @@
             this.InputTextPath.Name = "InputTextPath";
             this.InputTextPath.Size = new System.Drawing.Size(421, 20);
             this.InputTextPath.TabIndex = 2;
-            this.InputTextPath.Text = "C:\\Users\\iProgramInCpp\\source\\repos";
+            this.InputTextPath.Text = "C:\\";
             // 
             // ButtonBrowse
             // 
